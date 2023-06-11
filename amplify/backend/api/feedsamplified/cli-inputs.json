@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "feedsamplified",
+    "serviceName": "AppSync",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 365,
+      "apiKeyExpirationDate": "2024-06-10T19:29:37.320Z",
+      "keyDescription": "feeds-api"
+    },
+    "conflictResolution": {},
+    "additionalAuthTypes": []
+  }
+}
